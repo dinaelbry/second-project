@@ -1,6 +1,5 @@
+# Project 2
 # second-project
-
-# Project 1
 
 A simple website using HTML and CSS.
 
